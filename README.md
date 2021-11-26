@@ -8,7 +8,7 @@
 
 ## 📢 Visite o site
 
-[Animation-button-switch](https://lobinhodev.github.io/Animation-button-dark-mode-toggle/).
+[Animation-button-switch](https://lobinhodev.github.io/Animation-button-switch/).
 
 ## 🧠 Tecnologias
 
